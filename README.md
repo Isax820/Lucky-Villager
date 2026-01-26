@@ -6,4 +6,4 @@ Lucky Trades is perfect for fun-focused playthroughs 🎮, creative worlds 🧱,
 
 Whether you’re looking for chaos 🔥, comedy 😂, or just ridiculously good trades 🤑, Lucky Trades brings a fresh and entertaining twist to vanilla gameplay 🌍✨
 
-©️ Mod developed by Isax
+© Mod developed by Isax
