@@ -1,0 +1,33 @@
+{
+  "_fv": 79,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "TOOLSMITH"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.DIRT#0"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.NETHERITE_SWORD"
+            },
+            "countOffer": 3,
+            "level": 1,
+            "maxTrades": 100,
+            "xp": 17,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

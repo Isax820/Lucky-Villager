@@ -1,0 +1,33 @@
+{
+  "_fv": 79,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "CARTOGRAPHER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.DIRT#0"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.FILLED_MAP"
+            },
+            "countOffer": 15,
+            "level": 1,
+            "maxTrades": 100,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT License"
+
+[[mods]]
+modId="luckyvillagerneoforge"
+version="1.1"
+displayName="LuckyVillagerNeoForge"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="\u00A9 Isax82"
+authors="Isax82"
+description="A mod to have best trades with villagers"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+
+# Start of user code block custom mixins
+# End of user code block custom mixins
+
+[[dependencies.luckyvillagerneoforge]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.8.31,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.luckyvillagerneoforge]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.8]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

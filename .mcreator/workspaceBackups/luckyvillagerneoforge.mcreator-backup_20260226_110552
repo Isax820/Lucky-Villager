@@ -1,0 +1,92 @@
+{
+  "mod_elements": [
+    {
+      "name": "NethForge",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neth_forge",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "LivreLibraire",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livre_libraire",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "EpeeArmu",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epee_armu",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "PommeFarmer",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pomme_farmer",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "FletcherBest",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fletcher_best",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/luckyvillagerneoforge/init/LuckyvillagerneoforgeModTrades.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/mcreator/luckyvillagerneoforge/LuckyvillagerneoforgeMod.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "luckyvillagerneoforge",
+    "modName": "LuckyVillagerNeoForge",
+    "version": "1.1",
+    "description": "A mod to have best trades with villagers",
+    "author": "Isax82",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "capture_decran_2026-01-21_160228",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.8",
+    "credits": "© Isax82",
+    "modElementsPackage": "net.mcreator.luckyvillagerneoforge"
+  },
+  "mcreatorVersion": 202500345720
+}
